@@ -1,0 +1,130 @@
+span	{
+	height: 100px;
+	width: 100px;
+	border: 1px solid #000;
+	display: inline-block;
+	margin: center;
+}
+
+div	{
+	font-size: 12px;
+	width: 330px;
+	height: 330px;
+	border: solid black;
+}
+
+#blok1	{
+	background-color: #9B3A2D;
+	color: #fff;
+	margin-left: 10px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+#blok1:hover	{
+	background-color: #F5B5B6;
+	color: #fff;
+	margin-left: 10px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+#blok2	{
+	background-color: #9B5D2D;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok2:hover	{
+	background-color: #F5B5E3;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok3	{
+	background-color: #9B942D;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok3:hover	{
+	background-color: #E4B5F5;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok4	{
+	background-color: #4E9B2D;
+	color: #fff;
+	margin-left: 10px;
+	overflow: hidden;
+}
+
+#blok4:hover	{
+	background-color: #ACACFE;
+	color: #fff;
+	margin-left: 10px;
+	overflow: hidden;
+}
+
+#blok5	{
+	background-color: #2D9B73;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok5:hover	{
+	background-color: #ACE9FE;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok6	{
+	background-color: #2D769B;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok6:hover	{
+	background-color: #ACFEE1;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok7	{
+	background-color: #352D9B;
+	color: #fff;
+	margin-left: 10px;
+	overflow: hidden;
+}
+
+#blok7:hover	{
+	background-color: #ACFEB5;
+	color: #fff;
+	margin-left: 10px;
+	overflow: hidden;
+}
+
+#blok8	{
+	background-color: #762D9B;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok8:hover	{
+	background-color: #D9FEAC;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok9	{
+	background-color: #9B2D78;
+	color: #fff;
+	overflow: auto;
+}
+
+#blok9:hover	{
+	background-color: #FEE8AC;
+	color: #fff;
+	overflow: auto;
+}
